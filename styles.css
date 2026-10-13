@@ -1,0 +1,12 @@
+#grid {
+    display: grid;
+    width: 50dvh;
+    height: 50dvh;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+
+
+#reset {
+    display: none;
+}
